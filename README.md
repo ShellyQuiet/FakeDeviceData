@@ -1,6 +1,8 @@
-# Please use this for educational purposes only!
+# Android Fake Device Data
 
 For work correctly, transfer the fake_device file in the: /data/local/fake_device, then give out: chmod 777 fake_device, and finally fill the fields with your values
+
+Please use this for educational purposes only!
 
 # Donations:
 
